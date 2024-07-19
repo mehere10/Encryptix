@@ -1,4 +1,4 @@
-package Encryptix.AllTask.Task1;
+package Encryptix.AllTask.Task1_NumberGuessingGame;
 import java.util.*;
 
 
