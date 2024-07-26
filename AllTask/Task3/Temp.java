@@ -1,4 +1,7 @@
 package Encryptix.AllTask.Task3;
 
-public class Temp {
+public class Temp
+{
+
+   
 }

@@ -37,7 +37,7 @@ public class NumberGuessingGame {
 
 
                 System.out.println("There is a number between " + minRange + " and " + maxRange + " .");
-                System.out.println("The number is :" + numberToGuess);
+                //System.out.println("The number is :" + numberToGuess);
                 while (attempt < attemptLimit && !guessCorrectly) {
 
 
