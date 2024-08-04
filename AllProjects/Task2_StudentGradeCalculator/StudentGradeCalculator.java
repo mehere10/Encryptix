@@ -1,5 +1,4 @@
-package Encryptix.AllTask.Task2_StudentGradeCalculator;
-import java.util.*;
+package Encryptix.AllProjects.Task2_StudentGradeCalculator;
 
 
 public class StudentGradeCalculator

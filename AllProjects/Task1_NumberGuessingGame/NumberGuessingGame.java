@@ -1,5 +1,4 @@
-package Encryptix.AllTask.Task1_NumberGuessingGame;
-import java.util.*;
+package Encryptix.AllProjects.Task1_NumberGuessingGame;
 
 
 public class NumberGuessingGame {
